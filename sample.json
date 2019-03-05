@@ -1,0 +1,41 @@
+data='[{
+    "Modules": {
+        "Element": [
+            {
+                "NameOfElement": "email",
+                "ElementProperty": [
+                    {
+                        "Type": "type",
+                        "Value": "email"
+                    },
+                    {
+                        "Type": "class",
+                        "Value": "inputtext"
+                    },
+                    {
+                        "Type": "name",
+                        "Value": "email"
+                    },
+                    {
+                        "Type": "id",
+                        "Value": "email"
+                    },
+                    {
+                        "Type": "data-testid",
+                        "Value": "royal_email"
+                    },
+                    {
+                        "Type": "style",
+                        "Value": "border: 5px solid red;"
+                    },
+                    {
+                        "Type": "xpath",
+                        "Value": "//input[@name='email' and @id='email']"
+                    }
+                ]
+            }
+        ],
+        "_xmlns:xsi": "https://www.facebook.com/",
+        "_xsi:type": "Modules"
+    }
+}]';
